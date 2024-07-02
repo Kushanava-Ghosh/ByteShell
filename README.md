@@ -1,4 +1,4 @@
-# ByteShell
+# ByteShell - MASH
 This is my attempt at creating a UNIX like shell in C language.
 
 # How to Run
